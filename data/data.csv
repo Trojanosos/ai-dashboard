@@ -35,3 +35,147 @@ Microsoft,AI Portfolio,Industry Solutions,Healthcare finance manufacturing AI
 Microsoft,Strategic Initiatives,OpenAI Partnership,Multi-billion dollar investment
 Microsoft,Strategic Initiatives,Global Expansion,New data centers in key markets
 Microsoft,Strategic Initiatives,Research Focus,Responsible AI development
+Google,Company Overview,Founded,1998 in Mountain View California
+Google,Company Overview,Scale,190000+ employees worldwide
+Google,Company Overview,Leadership,Sundar Pichai (CEO)
+Google,AI Products,Gemini,Flagship AI model with Nano Pro and Ultra versions
+Google,AI Products,Duet AI,Integrated AI assistant for Google Workspace
+Google,AI Products,Vertex AI,Unified platform for ML model management
+Google,Market Position,Cloud Revenue,$33.1B in 2023 with 26% YoY growth
+Google,Market Position,Cloud Market Share,11% global market share third largest provider
+Google,Market Position,Market Value,$1.6T market capitalization
+Apple,Company Overview,Founded,1976 in Cupertino California
+Apple,Company Overview,Scale,150000+ employees globally
+Apple,Company Overview,Leadership,Tim Cook (CEO)
+Apple,AI Development,Apple Intelligence,Comprehensive AI system with generative capabilities
+Apple,AI Development,ChatGPT Integration,Enhanced document understanding and contextual responses
+Apple,AI Development,Image Playground,AI-powered image creation and manipulation tool
+Apple,Market Performance,AR Market Share,40% market share in AR-enabled devices
+Apple,Market Performance,AI Revenue,$50B annual revenue from AI-enhanced products
+Apple,Market Performance,Investment Plans,$25B projected investment over next 3-5 years
+Nvidia,Company Overview,Founded,1993 in Santa Clara California
+Nvidia,Company Overview,Scale,30000 employees globally
+Nvidia,Company Overview,Leadership,Jensen Huang (CEO)
+Nvidia,Technology Portfolio,NVLM Models,72B parameter multimodal language model family
+Nvidia,Technology Portfolio,CUDA,Programming interface for GPU optimization
+Nvidia,Technology Portfolio,GPU Architecture,Advanced computing hardware for AI and gaming
+Nvidia,Market Position,AI Chip Share,80% market share in AI chips
+Nvidia,Market Position,Market Value,~$3T market capitalization
+Nvidia,Market Position,Annual Revenue,$60.9B for 2024
+Alphabet,Company Overview,Founded,2015 in Mountain View California
+Alphabet,Company Overview,Scale,190000+ employees worldwide
+Alphabet,Company Overview,Leadership,Sundar Pichai (CEO)
+Alphabet,Innovation Units,Google,Core technology and search services
+Alphabet,Innovation Units,Waymo,Autonomous vehicle technology
+Alphabet,Innovation Units,Verily,Healthcare and life sciences research
+Alphabet,Business Performance,Cloud Growth,35% YoY growth to $11.4B in Q3 2024
+Alphabet,Business Performance,AI Investment,$6B annual investment in AI research
+Alphabet,Business Performance,Cloud Revenue,$33.1B in 2023
+Amazon,Company Overview,Founded,1994 in Seattle Washington
+Amazon,Company Overview,Scale,1.5M+ employees worldwide
+Amazon,Company Overview,Leadership,Andy Jassy (CEO)
+Amazon,Core Services,AWS,Cloud computing and infrastructure
+Amazon,Core Services,E-commerce,Global retail and marketplace platform
+Amazon,Core Services,Prime,Subscription-based services and benefits
+Amazon,Financial Metrics,Total Revenue,$524B in 2023
+Amazon,Financial Metrics,AI Investment,Multi-billion dollar investment in Anthropic
+Amazon,Financial Metrics,Market Position,Leader in e-commerce and cloud services
+IBM,Company Overview,Founded,1911 in Armonk New York
+IBM,Company Overview,Scale,280000+ employees across 170+ countries
+IBM,Company Overview,Leadership,Arvind Krishna (CEO)
+IBM,Core Technologies,AI,Watson platform and watsonx AI solutions
+IBM,Core Technologies,Cloud,Hybrid cloud infrastructure services
+IBM,Core Technologies,Quantum,IBM Quantum computing systems
+IBM,Business Performance,Revenue,$60 billion in 2023
+IBM,Business Performance,Partnerships,UFC global AI partnership
+IBM,Business Performance,Market Position,Leader in enterprise technology solutions
+Palantir,Company Overview,Founded,2003 in Denver Colorado
+Palantir,Company Overview,Scale,3000+ employees
+Palantir,Company Overview,Leadership,Alex Karp (CEO)
+Palantir,Core Products,Gotham,Government intelligence platform
+Palantir,Core Products,Foundry,Commercial data analytics platform
+Palantir,Core Products,AIP,AI Platform with Anthropic integration
+Palantir,Market Impact,Revenue,$2 billion in 2023
+Palantir,Market Impact,Partnerships,Anthropic and AWS collaboration
+Palantir,Market Impact,Specialization,Government and defense analytics
+Dynatrace,Company Overview,Founded,2005 in Waltham Massachusetts
+Dynatrace,Company Overview,Scale,4000+ professionals worldwide
+Dynatrace,Company Overview,Leadership,Rick McConnell (CEO)
+Dynatrace,Technology Solutions,Davis,AI-powered analytics engine
+Dynatrace,Technology Solutions,CoPilot,AI assistant for data analysis
+Dynatrace,Technology Solutions,Platform,Cloud-native observability tools
+Dynatrace,Business Growth,Revenue,$1.35 billion annual revenue
+Dynatrace,Business Growth,Integration,Major cloud platform partnerships
+Dynatrace,Business Growth,Growth Rate,30%+ year-over-year growth
+Anthropic,Company Overview,Founded,2021 in San Francisco California
+Anthropic,Company Overview,Scale,1000+ employees
+Anthropic,Company Overview,Leadership,Dario Amodei (Founder)
+Anthropic,Core Focus,Claude,AI model for safe interactions
+Anthropic,Core Focus,Safety,AI alignment and interpretability
+Anthropic,Core Focus,Research,AI safety and ethics advancement
+Anthropic,Strategic Position,Funding,$580 million raised
+Anthropic,Strategic Position,Partnerships,Google AWS Palantir collaboration
+Anthropic,Strategic Position,Market Role,Leader in ethical AI development
+Tesla,Company Overview,Founded,2003 in Palo Alto California
+Tesla,Company Overview,Scale,120000+ employees worldwide
+Tesla,Company Overview,Leadership,Elon Musk (CEO)
+Tesla,Technology Portfolio,Autopilot,Advanced driver assistance system
+Tesla,Technology Portfolio,FSD,Full Self-Driving capabilities
+Tesla,Technology Portfolio,Energy,Solar Roof and Powerwall solutions
+Tesla,Financial Performance,Revenue,$85 billion in 2023
+Tesla,Financial Performance,Valuation,$750 billion market cap
+Tesla,Financial Performance,Market Position,Leading global EV manufacturer
+Adobe,Company Overview,Founded,1982 in San Jose California
+Adobe,Company Overview,Scale,29000+ employees worldwide
+Adobe,Company Overview,Leadership,Shantanu Narayen (CEO)
+Adobe,Core Products,Creative Cloud,Professional creative software suite
+Adobe,Core Products,Document Cloud,PDF and e-signature solutions
+Adobe,Core Products,Experience Cloud,Enterprise marketing tools
+Adobe,Business Performance,Revenue,$20 billion in 2023
+Adobe,Business Performance,Innovation,AI-powered features with Adobe Sensei
+Adobe,Business Performance,Market Position,Leader in creative software industry
+Infineon,Company Overview,Founded,1999 in Neubiberg Germany
+Infineon,Company Overview,Scale,58000+ employees globally
+Infineon,Company Overview,Leadership,Jochen Hanebeck (CEO)
+Infineon,Technology Focus,Semiconductors,Power and automotive electronics
+Infineon,Technology Focus,Materials,SiC and GaN technologies
+Infineon,Technology Focus,Solutions,Energy efficiency systems
+Infineon,Market Performance,Revenue,€16.2 billion in 2023
+Infineon,Market Performance,Partnerships,TSMC collaboration for EV chips
+Infineon,Market Performance,Market Share,45% in power semiconductors
+SAP,Company Overview,Founded,1972 in Walldorf Germany
+SAP,Company Overview,Scale,110000+ employees
+SAP,Company Overview,Leadership,Christian Klein (CEO)
+SAP,Core Solutions,S/4HANA,Enterprise resource planning suite
+SAP,Core Solutions,BTP,Business technology platform
+SAP,Core Solutions,SuccessFactors,HR management solutions
+SAP,Financial Performance,Revenue,€33.4 billion in 2023
+SAP,Financial Performance,Cloud Growth,50%+ of total revenue
+SAP,Financial Performance,Market Share,20% in ERP systems
+Intel,Company Overview,Founded,1968 in Santa Clara California
+Intel,Company Overview,Scale,120000+ employees
+Intel,Company Overview,Leadership,Pat Gelsinger (CEO)
+Intel,Product Portfolio,Processors,Core Xeon and Atom series
+Intel,Product Portfolio,Manufacturing,Intel 20A and 18A nodes
+Intel,Product Portfolio,AI,Habana Labs accelerators
+Intel,Market Position,Revenue,$63 billion in 2023
+Intel,Market Position,Strategy,IDM 2.0 manufacturing approach
+Intel,Market Position,Investment,U.S. semiconductor expansion
+Hugging Face,Company Overview,Founded,2016 in New York City
+Hugging Face,Company Overview,Scale,170 employees
+Hugging Face,Company Overview,Leadership,Clément Delangue (CEO)
+Hugging Face,Platform Offerings,Transformers,Open-source ML libraries
+Hugging Face,Platform Offerings,Hub,Model sharing platform
+Hugging Face,Platform Offerings,HUGS,Generative AI services
+Hugging Face,Growth Metrics,Funding,$235 million Series D raised
+Hugging Face,Growth Metrics,Valuation,$4.5 billion
+Hugging Face,Growth Metrics,Adoption,10000+ enterprise customers
+Pollen Robotics,Company Overview,Founded,2016 in Bordeaux France
+Pollen Robotics,Company Overview,Scale,20 employees
+Pollen Robotics,Company Overview,Leadership,Matthieu Lapeyre (CEO)
+Pollen Robotics,Technology Stack,Reachy,Open-source humanoid robot
+Pollen Robotics,Technology Stack,Integration,ROS2 and Python SDKs
+Pollen Robotics,Technology Stack,Features,7-DOF robotic arms
+Pollen Robotics,Market Progress,Funding,$2.6 million seed round
+Pollen Robotics,Market Progress,Deployment,100 robots across 20 countries
+Pollen Robotics,Market Progress,Focus,Research and education sectors
