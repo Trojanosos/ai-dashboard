@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #f5f5f5;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+.ai-grid {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 25px;
+    padding: 20px 0;
+}
+.division-card {
+    background: white;
+    border-radius: 15px;
+    padding: 25px;
+    width: 300px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+.division-title {
+    font-size: 1.3em;
+    font-weight: bold;
+    margin-bottom: 15px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.projects-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.project-item {
+    padding: 12px 0;
+    border-bottom: 1px solid #eee;
+}
+.project-item:last-child {
+    border-bottom: none;
+}
+.project-name {
+    font-weight: bold;
+    color: #333;
+    margin-bottom: 5px;
+}
+.project-desc {
+    font-size: 0.9em;
+    color: #666;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.icon {
+    font-size: 1.5em;
+}
+/* Company-specific styles */
+.deepmind { border-top: 5px solid #4285f4; }
+.deepmind .division-title { color: #4285f4; }
+.mistral { border-top: 5px solid #4299e1; }
+.mistral .division-title { color: #4299e1; }
+.microsoft { border-top: 5px solid #00a4ef; }
+.microsoft .division-title { color: #00a4ef; }
+.meta { border-top: 5px solid #0668E1; }
+.meta .division-title { color: #0668E1; }

@@ -1,0 +1,37 @@
+Company,Category,Name,Description
+DeepMind,Company Overview,Founded,2010 in London UK
+DeepMind,Company Overview,Scale,Google AI subsidiary since 2014 with 1500+ employees
+DeepMind,Company Overview,Leadership,Demis Hassabis (CEO & Co-founder)
+DeepMind,Scientific Breakthroughs,AlphaFold,Revolutionized protein structure prediction
+DeepMind,Scientific Breakthroughs,AlphaGo,First AI to defeat world champion in Go
+DeepMind,Scientific Breakthroughs,Gemini,Advanced multimodal AI model
+DeepMind,Real-World Impact,Healthcare,AI-powered medical diagnostics and research
+DeepMind,Real-World Impact,Sustainability,40% reduction in data center cooling costs
+DeepMind,Real-World Impact,Scientific Research,200M+ protein structures predicted
+Mistral AI,Company Overview,Founded,April 2023 in Paris France
+Mistral AI,Company Overview,Scale,50 employees $6B valuation
+Mistral AI,Company Overview,Leadership,Arthur Mensch Guillaume Lample (Co-founders)
+Mistral AI,Model Evolution,Mistral 7B,Initial foundation model
+Mistral AI,Model Evolution,Mixtral 8x7B,Mixture of Experts architecture
+Mistral AI,Model Evolution,Mixtral 8x22B,Advanced MOE model
+Mistral AI,Strategic Advantages,Technology,Cost-efficient high-performance MOE models
+Mistral AI,Strategic Advantages,Partnerships,Microsoft Amazon Salesforce Nvidia
+Mistral AI,Strategic Advantages,European Leadership,Strong EU market position & support
+Meta,Company Overview,Founded,2004 in Menlo Park California
+Meta,Company Overview,Scale,80000+ employees 3.98B monthly users
+Meta,Company Overview,Leadership,Mark Zuckerberg (CEO & Founder)
+Meta,Key Technologies,LLaMA Family,Open source large language models
+Meta,Key Technologies,AudioCraft,AI-powered audio generation
+Meta,Key Technologies,Meta AI,Multimodal AI assistant
+Meta,Future Vision,Metaverse AI,AI-powered virtual reality experiences
+Meta,Future Vision,Reality Labs,AR/VR research and development
+Meta,Future Vision,Social AI,Next-gen AI for social connections
+Microsoft,Company Overview,Market Position,$3.21T market cap 220000+ employees
+Microsoft,Company Overview,Revenue,$211B (2023) 6.88% YoY growth
+Microsoft,Company Overview,Leadership,Satya Nadella (CEO since 2014)
+Microsoft,AI Portfolio,Azure AI,Comprehensive cloud AI services
+Microsoft,AI Portfolio,Copilot,AI assistant across Microsoft 365
+Microsoft,AI Portfolio,Industry Solutions,Healthcare finance manufacturing AI
+Microsoft,Strategic Initiatives,OpenAI Partnership,Multi-billion dollar investment
+Microsoft,Strategic Initiatives,Global Expansion,New data centers in key markets
+Microsoft,Strategic Initiatives,Research Focus,Responsible AI development
