@@ -302,6 +302,146 @@ function processCSVData(csvData) {
                     if(category.includes('no-code')) icon = '🛠️';
                     if(category.includes('no code')) icon = '🛠️';
                     if(category.includes('nocode')) icon = '🛠️';
+                    if(category.includes('Scientific')) icon = '🧬';
+                    if(category.includes('Technology')) icon = '🚀';
+                    if(category.includes('Strategic')) icon = '💪';
+                    if(category.includes('Portfolio')) icon = '🤖';
+                    if(category.includes('Vision')) icon = '🎮';
+                    if(category.includes('Natural')) icon = '💬';
+                    if(category.includes('Conversational')) icon = '💭';
+                    if(category.includes('Reasoning')) icon = '🧠';
+                    if(category.includes('Analysis')) icon = '📊';
+                    if(category.includes('Processing')) icon = '⚙️';
+                    if(category.includes('Generation')) icon = '⚡';
+                    if(category.includes('Integration')) icon = '🔌';
+                    if(category.includes('Automated')) icon = '🤖';
+                    if(category.includes('Real-Time')) icon = '⏱️';
+                    if(category.includes('Multimodal')) icon = '🎯';
+                    if(category.includes('Customizable')) icon = '⚙️';
+
+                    // Quality & Performance
+                    if(category.includes('High-Quality')) icon = '✨';
+                    if(category.includes('Quality')) icon = '✨';
+                    if(category.includes('Advanced')) icon = '🚀';
+                    if(category.includes('Professional')) icon = '💼';
+                    if(category.includes('Exceptional')) icon = '🌟';
+                    if(category.includes('Excellent')) icon = '🌟';
+                    if(category.includes('Great')) icon = '🌟';
+                    if(category.includes('Strong')) icon = '💪';
+                    if(category.includes('Powerful')) icon = '💪';
+                    if(category.includes('Robust')) icon = '💪';
+                    if(category.includes('Extensive')) icon = '📚';
+                    if(category.includes('Complex')) icon = '🔧';
+                    if(category.includes('Deep')) icon = '🔍';
+                    if(category.includes('Smart')) icon = '🧠';
+                    if(category.includes('Efficient')) icon = '⚡';
+                    if(category.includes('Fast')) icon = '⚡';
+                    if(category.includes('Quick')) icon = '⚡';
+                    if(category.includes('Speed')) icon = '⚡';
+                    if(category.includes('Responsive')) icon = '⚡';
+                    if(category.includes('Instant')) icon = '⚡';
+                    if(category.includes('Performance')) icon = '📈';
+                    // Features & Functions
+                    if(category.includes('Template')) icon = '📋';
+                    if(category.includes('Interface')) icon = '🖥️';
+                    if(category.includes('Collaboration')) icon = '👥';
+                    if(category.includes('Export')) icon = '📤';
+                    if(category.includes('Import')) icon = '📥';
+                    if(category.includes('Storage')) icon = '💾';
+                    if(category.includes('Memory')) icon = '💾';
+                    if(category.includes('Cloud')) icon = '☁️';
+                    if(category.includes('Local')) icon = '💻';
+                    if(category.includes('Deployment')) icon = '🚀';
+
+                    // Content & Media
+                    if(category.includes('Visual')) icon = '👁️';
+                    if(category.includes('Image')) icon = '🖼️';
+                    if(category.includes('Video')) icon = '🎥';
+                    if(category.includes('Audio')) icon = '🔊';
+                    if(category.includes('Text')) icon = '📝';
+                    if(category.includes('Document')) icon = '📄';
+                    if(category.includes('Content')) icon = '📄';
+                    if(category.includes('Style')) icon = '🎨';
+                    if(category.includes('Artistic')) icon = '🎨';
+                    if(category.includes('Creative')) icon = '🎨';
+                    if(category.includes('Design')) icon = '🎨';
+                    if(category.includes('Photorealistic')) icon = '📸';
+
+                    // User Experience
+                    if(category.includes('User')) icon = '👤';
+                    if(category.includes('Friendly')) icon = '😊';
+                    if(category.includes('Intuitive')) icon = '👌';
+                    if(category.includes('Convenient')) icon = '👌';
+                    if(category.includes('Interactive')) icon = '🤝';
+                    if(category.includes('Easy')) icon = '✨';
+                    if(category.includes('Simple')) icon = '✨';
+
+                    // Technical Aspects
+                    if(category.includes('Hardware')) icon = '🖥️';
+                    if(category.includes('Technical')) icon = '⚙️';
+                    if(category.includes('Setup')) icon = '🔧';
+                    if(category.includes('Platform')) icon = '⚡';
+                    if(category.includes('Model')) icon = '🤖';
+                    if(category.includes('Code')) icon = '💻';
+                    if(category.includes('Coding')) icon = '💻';
+                    if(category.includes('Programming')) icon = '💻';
+                    if(category.includes('Source')) icon = '📚';
+
+                    // Language & Communication
+                    if(category.includes('Translation')) icon = '🔤';
+                    if(category.includes('Language')) icon = '🗣️';
+                    if(category.includes('Multilingual')) icon = '🌐';
+                    if(category.includes('Context')) icon = '🔍';
+                    if(category.includes('Summarization')) icon = '📝';
+                    // Business & Access
+                    if(category.includes('Commercial')) icon = '💼';
+                    if(category.includes('Enterprise')) icon = '🏢';
+                    if(category.includes('Subscription')) icon = '💳';
+                    if(category.includes('Premium')) icon = '👑';
+                    if(category.includes('Free')) icon = '🆓';
+                    if(category.includes('Cost')) icon = '💰';
+                    if(category.includes('Price')) icon = '💰';
+                    if(category.includes('Expensive')) icon = '💰';
+                    if(category.includes('Paid')) icon = '💰';
+
+                    // Limitations & Issues
+                    if(category.includes('Limited')) icon = '⚠️';
+                    if(category.includes('Restriction')) icon = '🚫';
+                    if(category.includes('Restricted')) icon = '🚫';
+                    if(category.includes('Requirement')) icon = '📋';
+                    if(category.includes('Dependency')) icon = '🔗';
+                    if(category.includes('Lock-In')) icon = '🔒';
+                    if(category.includes('Secure')) icon = '🔒';
+                    if(category.includes('Security')) icon = '🔒';
+                    if(category.includes('Issue')) icon = '❗';
+                    if(category.includes('Problem')) icon = '⚠️';
+                    if(category.includes('Inconsistent')) icon = '〽️';
+                    if(category.includes('Unstable')) icon = '〽️';
+                    if(category.includes('Error')) icon = '❌';
+                    if(category.includes('Fail')) icon = '❌';
+                    if(category.includes('Concern')) icon = '⚠️';
+                    if(category.includes('Risk')) icon = '⚠️';
+                    if(category.includes('Warning')) icon = '⚠️';
+                    if(category.includes('Caution')) icon = '⚠️';
+                    if(category.includes('Privacy')) icon = '🛡️';
+                    if(category.includes('Protection')) icon = '🛡️';
+                    if(category.includes('Misuse')) icon = '⛔';
+                    if(category.includes('Abuse')) icon = '⛔';
+                    if(category.includes('Lack')) icon = '⛔';
+                    if(category.includes('Missing')) icon = '⛔';
+                    if(category.includes('Unavailable')) icon = '⛔';
+
+                    // Learning & Support
+                    if(category.includes('Learning')) icon = '📚';
+                    if(category.includes('Learn')) icon = '📚';
+                    if(category.includes('Training')) icon = '📚';
+                    if(category.includes('Curve')) icon = '📈';
+                    if(category.includes('Support')) icon = '🤝';
+                    if(category.includes('Help')) icon = '💁';
+                    if(category.includes('Guide')) icon = '📖';
+                    if(category.includes('Documentation')) icon = '📖';
+                    if(category.includes('Tutorial')) icon = '📖';
+                    if(category.includes('Feedback')) icon = '💬';
                     grid.appendChild(createCard(company, category, companies[company][category], icon));
                 }
             }
